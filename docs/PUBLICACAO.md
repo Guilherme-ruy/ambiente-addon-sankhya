@@ -1,6 +1,6 @@
 # Publicação no GitHub
 
-Nome sugerido: **ambiente-addon-sankhya**. Visibilidade pública para compartilhar os scripts e a documentação de preparação do laboratório.
+Repositório público: [Guilherme-ruy/ambiente-addon-sankhya](https://github.com/Guilherme-ruy/ambiente-addon-sankhya). Criado em 10/11/2026 para compartilhar os scripts e a documentação de preparação do laboratório.
 
 ## Arquivos distribuídos
 
@@ -21,7 +21,7 @@ JDK, WildFly/WPM e OM são obtidos pelos canais oficiais por quem usar o laborat
 
 Os dois arquivos baixados também ultrapassam o limite de 100 MiB por arquivo do Git comum no GitHub. Git LFS não resolve permissões de redistribuição e não é necessário para esta distribuição.
 
-Depois da criação do repositório pessoal vazio, o envio pode ser feito pelo Git local, selecionando apenas os arquivos descritos acima. A criação e o envio precisam usar sua conta autenticada. Não publique `.env`, nem substitua o exemplo por um arquivo de servidor existente.
+O primeiro envio contém apenas os 19 arquivos descritos acima. Para atualizações, revise as alterações pelo Git local e use sua conta autenticada. Não publique `.env`, nem substitua o exemplo por um arquivo de servidor existente.
 
 ## Referências
 

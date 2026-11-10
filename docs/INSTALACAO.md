@@ -14,7 +14,15 @@ sudo apt-get install -y git curl python3 unzip ca-certificates iproute2
 mkdir -p ~/projects
 ```
 
-Copie esta pasta para `~/projects/ambiente-addon-sankhya` ou clone o repositório publicado e entre nela. Prefira o sistema de arquivos Linux para o projeto e para os SDKs, em vez de executar os arquivos no disco montado `/mnt/c`.
+Clone o repositório e entre na pasta:
+
+```bash
+cd ~/projects
+git clone https://github.com/Guilherme-ruy/ambiente-addon-sankhya.git
+cd ambiente-addon-sankhya
+```
+
+Se já tiver uma cópia, use essa pasta. Prefira o sistema de arquivos Linux para o projeto e para os SDKs, em vez de executar os arquivos no disco montado `/mnt/c`.
 
 Para uma máquina com 16 GB de RAM, `examples/wslconfig.example` mostra os limites usados na instalação de referência: 6 GB de RAM, 6 processadores e 2 GB de swap. Mescle as opções necessárias com seu `%UserProfile%\.wslconfig`; não substitua uma configuração existente sem revisar. O limite vale para o WSL 2 inteiro. Para aplicar, pare as aplicações Linux e depois execute `wsl --shutdown` no PowerShell, reabrindo o Ubuntu em seguida. Ajuste conforme sua máquina.
 
