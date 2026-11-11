@@ -6,9 +6,9 @@ O objetivo é reproduzir a preparação da mentoria seguindo o [guia oficial San
 
 ## Situação atual
 
-Em 10/11/2026, a instalação de referência chegou à tela de acesso do OM, com Oracle saudável, WPM instalado e reinicialização validada. **Ativação/licença de desenvolvimento e testes autenticados ainda estão pendentes.** O primeiro addon também ainda será criado e validado.
+Em 11/11/2026, a instalação de referência está com **licença aplicada, SAS conectado e acesso autenticado ao OM validado**. A tela de addons instalados foi aberta com sucesso. Oracle, WPM e reinicialização já foram validados. O primeiro addon ainda será criado, compilado e implantado.
 
-Veja o [andamento e as pendências](docs/ANDAMENTO.md). Os scripts desta distribuição foram derivados do ambiente funcionando e têm suas verificações descritas nesse registro.
+Veja o [andamento e as pendências](docs/ANDAMENTO.md) e o [roteiro de ativação](docs/ATIVACAO.md). Os scripts desta distribuição foram derivados do ambiente funcionando e têm suas verificações descritas nesse registro.
 
 ## Componentes
 

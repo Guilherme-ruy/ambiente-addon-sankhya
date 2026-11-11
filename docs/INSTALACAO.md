@@ -88,7 +88,7 @@ Esses valores do banco são padrões publicados no [guia Sankhya](https://develo
 
 Teste a conexão, selecione a versão OM indicada pela mentoria no WPM e instale os módulos necessários. Na instalação de referência, foi selecionada a versão estável disponível, 4.36b207. O WPM cria o datasource `java:/MGEDS`; preserve o arquivo gerado fora deste repositório, pois ele pode conter a senha do banco.
 
-Depois da instalação, confira `http://localhost:8080/mge/`. Solicite ao mentor uma licença de desenvolvimento/DEMO e as orientações de ativação/SAS. A tela de login e uma resposta HTTP 200 não comprovam uso autenticado. A instalação de referência ainda aguarda essa etapa.
+Depois da instalação, confira `http://localhost:8080/mge/`. Solicite ao mentor uma licença de desenvolvimento/DEMO e siga o [roteiro de ativação](ATIVACAO.md). A tela de login e uma resposta HTTP 200 não comprovam uso autenticado. Na instalação de referência, a chave foi aplicada e o acesso autenticado foi validado em 11/11/2026.
 
 ### Persistência do Oracle
 
