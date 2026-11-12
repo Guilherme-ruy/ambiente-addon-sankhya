@@ -10,6 +10,8 @@ Em 11/11/2026, a instalação de referência está com **licença aplicada, SAS 
 
 Veja o [andamento e as pendências](docs/ANDAMENTO.md) e o [roteiro de ativação](docs/ATIVACAO.md). Os scripts desta distribuição foram derivados do ambiente funcionando e têm suas verificações descritas nesse registro.
 
+Para voltar depois de algum tempo, leia [como retomar e recuperar o laboratório](docs/RETOMADA.md). Para as aulas de banco de dados, há um [guia de prática no Oracle usando o esquema SANKHYA](docs/ORACLE-PRATICA.md).
+
 ## Componentes
 
 | Componente | Referência validada |

@@ -1,6 +1,6 @@
 # Andamento do ambiente
 
-Atualizado em 11/11/2026. Este histórico descreve a instalação de referência iniciada em 10/11/2026, que deu origem à distribuição pública.
+Atualizado em 12/11/2026. Este histórico descreve a instalação de referência iniciada em 10/11/2026, que deu origem à distribuição pública.
 
 ## Etapas concluídas
 
@@ -14,6 +14,8 @@ Atualizado em 11/11/2026. Este histórico descreve a instalação de referência
 - Em 11/11, primeiro acesso ao OM realizado e troca obrigatória da senha do usuário inicial concluída pelo próprio usuário.
 - Chave de cliente aplicada pela interface oficial; SAS 4.8.0 conectado, dados do licenciado e produtos reconhecidos.
 - Recarga da licença confirmada pela mensagem de sucesso do OM; tela de addons instalados acessível na sessão autenticada.
+- Ambiente encerrado em 11/11, com parada do servidor/banco e encerramento da distribuição Ubuntu, preservando outra distribuição WSL.
+- Em 12/11, organização da pasta pessoal e documentação de retomada, prática Oracle e recuperação. Decidido utilizar o próprio esquema `SANKHYA` nos exercícios. Nenhum serviço foi iniciado nem SQL executado nessa organização.
 
 ## Validações da instalação de referência
 
